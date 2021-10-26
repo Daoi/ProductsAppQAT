@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-using System.Web.Http.Results;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using System.Web.Http.Results;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ProductsApp2.Controllers;
 using ProductsApp2.Models;
